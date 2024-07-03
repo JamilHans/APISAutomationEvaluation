@@ -29,6 +29,6 @@ Feature: Shop
     Then validate that the complete response is "<complete>"
     Examples:
       | id | petId | quantity | shipDate             | status | complete |
-      | 8  | 3     | 2      | 2024-07-03T00:00:36.617+0000 | placed | false     |
+      | 1  | 1     | 500      | 2024-06-22T06:09:23.477+0000 | placed | false     |
 
 
